@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KristiansRamanis
+- 👋 Hi, I’m Khirb
 - 👀 I’m interested in 3d modeling and programming
 - 🌱 I’m currently learning to code in Python and trying to make a game in unreal engine
 - 📫 How to reach me message kristiansra@gmail.com
